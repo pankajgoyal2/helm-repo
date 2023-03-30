@@ -1,0 +1,5 @@
+myapp:
+  app:
+    image:
+      repository: nginx
+      tag: stable-bullseye-perl
