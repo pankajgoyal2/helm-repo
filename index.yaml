@@ -3,12 +3,22 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-03-30T11:42:47.7698981+05:30"
+    created: "2023-03-30T13:24:32.1605395+05:30"
     description: A Helm chart for Kubernetes
-    digest: 9927356bee8e6e941d7261c07e480919e154f0157025ba30e442112a41db4c85
+    digest: 7f9f044edd2e878963bca05b28fe03036455255cdfa06909e7df886291b7d80d
     name: app
     type: application
     urls:
-    - https://swastik-goyal.github.io/helm-repo/charts/app-0.1.0.tgz
+    - https://pankajgoyal2.github.io/helm-repo/charts/app-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2023-03-30T13:24:32.1590413+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b4a41e135024ac4668ca512bd88510cd0ad761afd761ebaf154eaf40fec7bd07
+    name: app
+    type: application
+    urls:
+    - https://pankajgoyal2.github.io/helm-repo/charts/app-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-30T11:42:47.7698981+05:30"
+generated: "2023-03-30T13:24:32.1575408+05:30"
